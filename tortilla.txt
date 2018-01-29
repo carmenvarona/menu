@@ -2,3 +2,4 @@ huevos
 sal
 patatas  importante
 pimientos verdes
+precio de la tortilla 3 euros por persona
